@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sonam Kandari</h1>
+<h1 align="center">Hi 👋, I'm Aman Singh Rawat</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonamkandari&label=Profile%20views&color=0e75b6&style=flat" alt="sonamkandari" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amansinghrawat&label=Profile%20views&color=0e75b6&style=flat" alt="amansinghrawat" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonamkandari" alt="sonamkandari" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amansinghrawat" alt="amansinghrawat" /></a> </p>
 
 - 🌱 I’m currently learning **java ,HTML, CSS ,computer networking ,python ,Git ,C Language ,Data Structure and Algorithm ,AI ,Java Script, Cryptology**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sonamkandari](https://github.com/Sonamkandari)
+- 👨‍💻 All of my projects are available at [https://github.com/AmanSRawat](https://github.com/AmanSRawat)
 
 - 📫 How to reach me **amansinghrawat744@gmail.com**
 
