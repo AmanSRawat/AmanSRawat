@@ -68,14 +68,14 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amansinghrawat&show_icons=true&locale=en&theme=radical" alt="amansinghrawat" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmanSRawat&show_icons=true&locale=en&theme=radical" alt="amansinghrawat" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amansinghrawat&show_icons=true&locale=en&layout=compact&theme=radical" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmanSRawat&show_icons=true&locale=en&layout=compact&theme=radical" alt="top-langs" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amansinghrawat&theme=radical" alt="streak" />
 </p>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amansinghrawat&theme=radical" alt="trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmanSRawat&theme=radical" alt="trophies" /></a>
 </p>
